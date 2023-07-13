@@ -1,0 +1,19 @@
+1. What is software?
+--> Software is a set of instructions, data or programs used to operate computers and execute specific tasks.
+
+2. Types of application?
+-->     mobile apllication
+	web application 
+
+3. What is mobile application?
+--> A mobile application, most commonly referred to as an app, is a type of application software designed to run on
+    a mobile device, such as a smartphone or tablet computer. Mobile applications frequently serve to provide users 
+    with similar services to those accessed on PCs.
+
+4. Difference between mobile application and web application.
+--> Mobile apps live and run on the device itself. Snapchat, Instagram, Google Maps, and Facebook Messenger are 
+    some examples of popular mobile apps. Web apps, on the other hand, are accessed via the internet browser and 
+    will adapt to whichever device you're viewing them on.
+
+5. Who developed Android?
+--> andriod  is developed by google.
